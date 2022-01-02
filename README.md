@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there Coders👋
+Myself Kanakaraj and I love to work with data and fetching insights from the messy data is what interest me.
 
 <!--
 **kanakaraj-b/kanakaraj-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
